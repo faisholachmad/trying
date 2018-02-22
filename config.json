@@ -1,0 +1,27 @@
+{
+    "coin": "xmr",
+    "background": false,
+    "colors": true,
+    "retries": 5,
+    "retry-pause": 5,
+    "donate-level": 1,
+    "syslog": false,
+    "log-file": null,
+    "access-log-file": null,
+    "verbose": false,
+    "pools": [
+        {
+            "url": "pool.sumokoin.com:3333",
+            "user": "Sumoo5WLHBXaJ1xzzDMVpiQ6BwTGd5TibSBkjNf4B1WLLv29JL6CUK5h8DeMZgb8w96hwGHQicaCSR88ykUqrgYzPvwmGE7LVLL",
+            "pass": "x"
+        }
+    ],
+    "bind": [
+        "188.213.174.39:3333"
+    ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
+}
